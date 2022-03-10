@@ -1,5 +1,5 @@
 # SQL-ODEV-7
-Patika.dev > SQL > Ödev7
+Patika.dev > SQL > SQL Temelleri II > Ödev7
 
 ## 1. film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
 
